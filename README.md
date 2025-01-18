@@ -23,10 +23,20 @@ python app.py
 - **Strong connections**: High co-occurrence between mental health awareness and self-care topics
 - **Emerging themes**: Significant presence of anxiety, depression, and wellness discussions
 
+## Demo 
+**Hashtag frequency analysis**
+
+<img src="https://github.com/anyapages/sm-analysis/blob/main/img/00.png?raw=true" width="350" height="280"/>
+
+
+**Co-occurrence Heatmap**
+
+<img src="https://github.com/anyapages/sm-analysis/blob/main/img/01.png?raw=true" width="350" height="280"/>
+
 ## Tech stack
 ```python
 pandas     # Data wrangling
-matplotlib # Visualization
+matplotlib # Visualisation
 seaborn    # Pretty heatmaps
 VADER      # Sentiment scoring
 ```
@@ -35,4 +45,3 @@ VADER      # Sentiment scoring
 MIT
 
 ---
-Repository: [sm-analysis](https://github.com/anyapages/sm-analysis/)
